@@ -1,0 +1,2352 @@
+[
+  {
+    "doi": "10.1017/s1351324921000255",
+    "title": "NLE volume 27 issue 5 Cover and Back matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324918000268",
+    "title": "Extraction of templates from phrases using Sequence Binary Decision Diagrams",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324917000250",
+    "title": "CCG supertagging with bidirectional long short-term memory networks",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324923000463",
+    "title": "Emerging trends: Smooth-talking machines",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324916000097",
+    "title": "NERA 2.0: Improving coverage and performance of rule-based named entity recognition for Arabic",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324922000122",
+    "title": "Gender bias in legal corpora and debiasing it",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000328",
+    "title": "From unified phrase representation to bilingual phrase alignment in an unsupervised manner",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000031",
+    "title": "Topical language generation using transformers",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324920000376",
+    "title": "Negation detection for sentiment analysis: A case study in Spanish",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132491900010x",
+    "title": "Robust stylometric analysis and author attribution based on tones and rimes",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000548",
+    "title": "Mining, analyzing, and modeling text written on mobile devices",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000469",
+    "title": "How to evaluate machine translation: A review of automated and human metrics",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s135132492200047x",
+    "title": "NLE volume 28 issue 6 Cover and Back matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324916000127",
+    "title": "End-to-end statistical machine translation with zero or small parallel texts",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324919000196",
+    "title": "Learning semantic sentence representations from visually grounded language without lexical knowledge",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000475",
+    "title": "Neural Arabic singular-to-plural conversion using a pretrained Character-BERT and a fused transformer",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324915000388",
+    "title": "Survey about citation context analysis: Tasks, techniques, and resources",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324922000110",
+    "title": "In-depth analysis of the impact of OCR errors on named entity recognition and linking",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324915000170",
+    "title": "NLE volume 21 issue 3 Cover and Back matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324921000218",
+    "title": "Annotating argumentative structure in English-as-a-Foreign-Language learner essays",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324915000194",
+    "title": "TwitterNEED: A hybrid approach for named entity extraction and disambiguation for tweet",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324920000534",
+    "title": "Recent advances in processing negation",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324922000390",
+    "title": "Recognition of visual scene elements from a story text in Persian natural language",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000419",
+    "title": "RoLEX: The development of an extended Romanian lexical dataset and its evaluation at predicting concurrent lexical information",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324923000086",
+    "title": "Towards diverse and contextually anchored paraphrase modeling: A dataset and baselines for Finnish",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324923000049",
+    "title": "An unsupervised perplexity-based method for boilerplate removal",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324919000299",
+    "title": "Combining <i>n</i>-grams and deep convolutional features for language variety classification",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324922000316",
+    "title": "Killing me softly: Creative and cognitive aspects of implicitness in abusive language online",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324923000293",
+    "title": "Linguistically aware evaluation of coreference resolution from the perspective of higher-level applications",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324921000188",
+    "title": "NLE volume 27 issue 4 Cover and Back matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324919000470",
+    "title": "NLE volume 25 issue 5 Cover and Front matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000340",
+    "title": "Learning from noisy out-of-domain corpus using dataless classification",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324922000171",
+    "title": "A survey of methods for revealing and overcoming weaknesses of data-driven Natural Language Understanding",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000396",
+    "title": "NLE volume 24 issue 6 Cover and Front matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324922000146",
+    "title": "The voice synthesis business: 2022 update",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324923000402",
+    "title": "Emojis as anchors to detect Arabic offensive language and hate speech",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324919000500",
+    "title": "Uncovering the language of wine experts",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000330",
+    "title": "Detecting light verb constructions across languages",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324922000183",
+    "title": "Abstract meaning representation of Turkish",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324923000165",
+    "title": "Focusing on potential named entities during active label acquisition",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324916000334",
+    "title": "Word2Vec",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324916000322",
+    "title": "NLE volume 22 issue 6 Cover and Back matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324921000346",
+    "title": "NLE volume 27 issue 6 Cover and Back matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324917000419",
+    "title": "Formalizing Natural Languages: The NooJ Approach, by Max Silberztein . London, Cognitive science series, Wiley-ISTE, UK, 2016. ISBN 9781848219021",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324915000078",
+    "title": "Word from the editors",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324916000139",
+    "title": "Extracting parallel phrases from comparable data for machine translation",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324916000188",
+    "title": "NLE volume 22 issue 4 Cover and Front matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324924000019",
+    "title": "Anisotropic span embeddings and the negative impact of higher-order inference for coreference resolution: An empirical analysis",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324915000303",
+    "title": "Non-native text analysis: A survey",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324921000206",
+    "title": "Compositional matrix-space models of language: Definitions, properties, and learning methods",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324920000030",
+    "title": "Emerging trends: Reviewing the reviewers (again)",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324923000487",
+    "title": "Data-to-text generation using conditional generative adversarial with enhanced transformer",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324920000510",
+    "title": "Improving sentiment analysis with multi-task learning of negation",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324923000013",
+    "title": "NLP startup funding in 2022",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324919000019",
+    "title": "Effectiveness of data-driven induction of semantic spaces and traditional classifiers for sarcasm detection",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000182",
+    "title": "Investigating translated Chinese and its variants using machine learning",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000455",
+    "title": "Unsupervised Arabic dialect segmentation for machine translation",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000652",
+    "title": "NLE volume 26 issue 1 Cover and Front matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000639",
+    "title": "Editorial note",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000172",
+    "title": "Representation of sentence meaning (A JNLE Special Issue)",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324918000256",
+    "title": "Turing’s Imitation Game: Conversations with the Unknown, by Kevin Warwick and Huma Shah, Cambridge University Press, 2016. ISBN 978110705638-1. 202 pages",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324915000054",
+    "title": "NLE volume 21 issue 2 Cover and Front matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s135132492300044x",
+    "title": "Perceptional and actional enrichment for metaphor detection with sensorimotor norms",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s135132491600019x",
+    "title": "NLE volume 22 issue 4 Cover and Back matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324917000080",
+    "title": "Find the errors, get the better: Enhancing machine translation via word confidence estimation",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324917000079",
+    "title": "Generating natural language descriptions using speaker-dependent information",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324922000079",
+    "title": "NLE volume 28 issue 2 Cover and Back matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324917000407",
+    "title": "A survey of diacritic restoration in abjad and alphabet writing systems",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s135132492000025x",
+    "title": "Natural language generation: The commercial state of the art in 2020",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324918000074",
+    "title": "Assessing multilingual multimodal image description: Studies of native speaker preferences and translator choices",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324916000309",
+    "title": "Sentiment analysis in Turkish at different granularity levels",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324923000098",
+    "title": "The problem of varying annotations to identify abusive language in social media content",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s135132492000008x",
+    "title": "Syntax-ignorant N-gram embeddings for dialectal Arabic sentiment analysis",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000366",
+    "title": "How to tag non-standard language: Normalisation versus domain adaptation for Slovene historical and user-generated texts",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000244",
+    "title": "A comparison of latent semantic analysis and correspondence analysis of document-term matrices",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324915000236",
+    "title": "Modernising historical Slovene words",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324920000625",
+    "title": "NLE volume 27 issue 1 Cover and Back matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324917000286",
+    "title": "Emerging trends: Inflation",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324917000341",
+    "title": "NLE volume 23 issue 6 Cover and Front matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324921000437",
+    "title": "NLE volume 28 issue 1 Cover and Front matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000160",
+    "title": "A new approach for textual feature selection based on N-composite isolated labels",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000364",
+    "title": "Linguistic knowledge-based vocabularies for Neural Machine Translation",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132491600005x",
+    "title": "Deep-neural network approaches for speech recognition with heterogeneous groups of speakers including children",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324921000152",
+    "title": "Deception detection in text and its relation to the cultural dimension of individualism/collectivism",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324920000303",
+    "title": "Neural machine translation of low-resource languages using SMT phrase pair injection",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000317",
+    "title": "Term evaluation metrics in imbalanced text categorization",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000093",
+    "title": "Integrating LSA-based hierarchical conceptual space and machine learning methods for leveling the readability of domain-specific texts",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000068",
+    "title": "NLE volume 25 issue 2 Cover and Front matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324918000311",
+    "title": "NLE volume 24 issue 5 Cover and Back matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324916000103",
+    "title": "Preface",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324918000153",
+    "title": "NLE volume 24 issue 3 Cover and Front matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324918000487",
+    "title": "NLE volume 25 issue 1 Cover and Front matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324917000158",
+    "title": "Dropped personal pronoun recovery in Chinese SMS",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324918000086",
+    "title": "From image to language and back again",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324919000391",
+    "title": "Neural text normalization with adapted decoding and POS features",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000050",
+    "title": "An end-to-end neural framework using coarse-to-fine-grained attention for overlapping relational triple extraction",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324916000176",
+    "title": "A transformation-driven approach for recognizing textual entailment",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324917000109",
+    "title": "A scaffolding approach to coreference resolution integrating statistical and rule-based models",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324923000384",
+    "title": "Creating a large-scale diachronic corpus resource: Automated parsing in the Greek papyri (and beyond)",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324923000396",
+    "title": "SSL-GAN-RoBERTa: A robust semi-supervised model for detecting Anti-Asian COVID-19 hate speech on social media",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324917000444",
+    "title": "NLE volume 24 issue 1 Cover and Back matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s135132491700002x",
+    "title": "NLE volume 23 issue 2 Cover and Front matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s135132492300030x",
+    "title": "How you describe procurement calls matters: Predicting outcome of public procurement using call descriptions",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324917000456",
+    "title": "Editorial note",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324919000585",
+    "title": "It all starts with entities: A Salient entity topic model",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000305",
+    "title": "An overview of word and sense similarity",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000479",
+    "title": "A note on constituent parsing for Korean",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324921000097",
+    "title": "Lexicon or grammar? Using memory-based learning to investigate the syntactic relationship between Belgian and Netherlandic Dutch",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324920000248",
+    "title": "Lyndon White, Roberto Togneri, Wei Liu and Mohammed Bennamoun, Neural Representations of Natural Language. Singapore, Springer, 2019. XIV + 122 pages, ISBN:9789811300615",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000285",
+    "title": "A clustering framework for lexical normalization of Roman Urdu",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324922000298",
+    "title": "Neural automated writing evaluation for Korean L2 writing",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324920000492",
+    "title": "Natural language processing for similar languages, varieties, and dialects: A survey",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324922000213",
+    "title": "Comparison of text preprocessing methods",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324915000364",
+    "title": "NLE volume 21 issue 5 Cover and Back matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324917000110",
+    "title": "NLE volume 23 issue 3 Cover and Front matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324919000421",
+    "title": "Word sense disambiguation using implicit information",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324921000061",
+    "title": "NLE volume 27 issue 3 Cover and Front matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324922000341",
+    "title": "Leveraging machine translation for cross-lingual fine-grained cyberbullying classification amongst pre-adolescents",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324916000292",
+    "title": "One, no one and one hundred thousand events: Defining and processing events in an inter-disciplinary perspective",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324921000395",
+    "title": "A Survey on Machine Reading Comprehension Systems",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000524",
+    "title": "Automatic summarisation: 25 years On",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000509",
+    "title": "Comparison of rule-based and neural network models for negation detection in radiology reports",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000263",
+    "title": "NLE volume 25 issue 4 Cover and Back matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324916000012",
+    "title": "How to make money in the translation business",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324916000073",
+    "title": "NLE volume 22 issue 3 Cover and Front matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324924000056",
+    "title": "Soap ’n’ AI",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324916000140",
+    "title": "Exploiting unbalanced specialized comparable corpora for bilingual lexicon extraction",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324919000111",
+    "title": "Estimating word-level quality of statistical machine translation output using monolingual information alone",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324916000358",
+    "title": "Editorial note",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324923000451",
+    "title": "Improved conversational recommender system based on dialog context",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s135132492100036x",
+    "title": "A survey of the extraction and applications of causal relations",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324921000358",
+    "title": "Ranking facts for explaining answers to elementary science questions",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000238",
+    "title": "Neural embeddings: accurate and readable inferences based on semantic kernels",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000529",
+    "title": "Korean named entity recognition based on language-specific features – CORRIGENDUM",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324915000200",
+    "title": "NLP meets the cloud",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324920000583",
+    "title": "NLE volume 26 issue 6 Cover and Back matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000054",
+    "title": "NLE volume 26 issue 2 Cover and Back matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324916000218",
+    "title": "NLE volume 22 issue 5 Cover and Front matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324919000135",
+    "title": "NLP commercialisation in the last 25 years",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324915000297",
+    "title": "A method based on rules and machine learning for logic form identification in Spanish",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324921000024",
+    "title": "Lyrics segmentation via bimodal text–audio representation",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324915000030",
+    "title": "Arabic spelling error detection and correction",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324917000304",
+    "title": "<scp><i>Lemaza</i></scp>: An Arabic why-question answering system",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324923000116",
+    "title": "Ad astra or astray: Exploring linguistic knowledge of multilingual BERT through NLI task – CORRIGENDUM",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324918000244",
+    "title": "Multilingual SMS-based author profiling: Data and methods",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324918000293",
+    "title": "A neural approach for inducing multilingual resources and natural language processing tools for low-resource languages",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324915000339",
+    "title": "Can machine translation systems be evaluated by the crowd alone",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s135132492200002x",
+    "title": "An empirical study of cyclical learning rate on neural machine translation",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324920000352",
+    "title": "Supervised learning for the detection of negation and of its scope in French and Brazilian Portuguese biomedical corpora",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324921000292",
+    "title": "A semantic parsing pipeline for context-dependent question answering over temporally structured data",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324922000134",
+    "title": "Real-world sentence boundary detection using multitask learning: A case study on French",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324917000043",
+    "title": "Classifying news versus opinions in newspapers: Linguistic features for domain independence",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324920000224",
+    "title": "Universal Lemmatizer: A sequence-to-sequence model for lemmatizing Universal Dependencies treebanks",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324916000371",
+    "title": "NLE volume 23 issue 1 Cover and Back matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324918000438",
+    "title": "Editorial note",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324920000297",
+    "title": "Towards syntax-aware token embeddings",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324917000195",
+    "title": "Leveraging bilingual terminology to improve machine translation in a CAT environment",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324915000431",
+    "title": "A classification approach for detecting cross-lingual biomedical term translations",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324919000147",
+    "title": "NLE volume 25 issue 3 Cover and Front matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000499",
+    "title": "Preface: Special issue on NLP approaches to offensive content online",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324921000462",
+    "title": "Enhancement of Twitter event detection using news streams",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324915000133",
+    "title": "Morphologically rich Urdu grammar parsing using Earley algorithm",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324922000225",
+    "title": "Ad astra or astray: Exploring linguistic knowledge of multilingual BERT through NLI task",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324916000024",
+    "title": "Developing, evaluating, and refining an automatic generator of diagnostic multiple choice cloze questions to assess children's comprehension while reading",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324916000346",
+    "title": "Citation function, polarity and influence classification",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324922000274",
+    "title": "Construction Grammar Conceptual Network: Coordination-based graph method for semantic association analysis",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s135132491500011x",
+    "title": "An automatic approach to identify word sense changes in text media across timescales",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324919000457",
+    "title": "Keyword extraction: Issues and methods",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000062",
+    "title": "Argumentation models and their use in corpus annotation: Practice, prospects, and challenges",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324918000050",
+    "title": "SaferDrive: An NLG-based behaviour change support system for drivers",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324921000036",
+    "title": "NLE volume 27 issue 2 Cover and Front matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s135132491500025x",
+    "title": "NLE volume 21 issue 4 Cover and Back matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324916000279",
+    "title": "The next generation",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324922000237",
+    "title": "Emerging trends: General fine-tuning (<i>gft</i>)",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324921000371",
+    "title": "Joint learning of morphology and syntax with cross-level contextual information flow",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324921000103",
+    "title": "Automated evaluation of the quality of ideas in compositions based on concept maps",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324923000347",
+    "title": "Navigating the text generation revolution: Traditional data-to-text NLG companies and the rise of ChatGPT",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324921000401",
+    "title": "Gamified crowdsourcing for idiom corpora construction",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324917000298",
+    "title": "To use or not to use: Feature selection for sentiment analysis of highly imbalanced data",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324919000329",
+    "title": "Designing a virtual patient dialogue system based on terminology-rich resources: Challenges and evaluation",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324918000505",
+    "title": "Weighted finite-state transducers for normalization of historical texts",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324922000158",
+    "title": "NLE volume 28 issue 3 Cover and Front matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324917000328",
+    "title": "NLE volume 23 issue 5 Cover and Back matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324921000334",
+    "title": "NLE volume 27 issue 6 Cover and Front matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s135132492000011x",
+    "title": "Compression versus traditional machine learning classifiers to detect code-switching in varieties and dialects: Arabic as a case study",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324916000255",
+    "title": "Supervised approach to recognise Polish temporal expressions and rule-based interpretation of timexes",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324921000474",
+    "title": "Towards improving coherence and diversity of slogan generation",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000128",
+    "title": "Learning quantification from images: A structured neural architecture",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324918000360",
+    "title": "Efficient Phrase Table pruning for Hindi to English machine translation through syntactic and marker-based filtering and hybrid similarity measurement",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324914000199",
+    "title": "Extractive summarization of multi-party meetings through discourse segmentation",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324915000455",
+    "title": "Automatic generation of short answer questions for reading comprehension assessment",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324920000121",
+    "title": "Classification of regional and genre varieties of Chinese: A correspondence analysis approach based on comparable balanced corpora",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000081",
+    "title": "Anniversary article: Then and now: 25 years of progress in natural language engineering",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000219",
+    "title": "Recommending tasks based on search queries and missions",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324920000637",
+    "title": "Machine Learning for Text, by Charu C. Aggarwal, New York, Springer, 2018. ISBN 9783319735306. XXIII + 493 pages.",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324919000494",
+    "title": "Discovering multiword expressions",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000418",
+    "title": "Benchmarks and goals",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000212",
+    "title": "Temporally anchored spatial knowledge: Corpora and experiments",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324916000310",
+    "title": "NLE volume 22 issue 6 Cover and Front matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324915000066",
+    "title": "NLE volume 21 issue 2 Cover and Back matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324919000044",
+    "title": "Annotation projection for temporal information extraction",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000256",
+    "title": "Obituary: Yorick Wilks",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324915000212",
+    "title": "Revisiting the ontologising of semantic relation arguments in wordnet synsets",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324917000249",
+    "title": "Syntactic methods for topic-independent authorship attribution",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324917000377",
+    "title": "New treebank or repurposed? On the feasibility of cross-lingual parsing of Romance languages with Universal Dependencies",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s135132491500008x",
+    "title": "Clique-based semantic kernel with application to semantic relatedness",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324923000335",
+    "title": "Assessment of the E3C corpus for the recognition of disorders in clinical texts",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324923000037",
+    "title": "Quinductor: A multilingual data-driven method for generating reading-comprehension questions using Universal Dependencies",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324920000157",
+    "title": "NLE volume 26 issue 3 Cover and Front matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324915000479",
+    "title": "NLE volume 22 issue 2 Cover and Back matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s135132491700033x",
+    "title": "NLE volume 23 issue 6 Cover and Back matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324920000522",
+    "title": "Processing negation: An introduction to the special issue",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324924000020",
+    "title": "Editorial Note",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324918000049",
+    "title": "NLE volume 24 issue 2 Cover and Back matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324915000480",
+    "title": "POS-tagging arabic texts: A novel approach based on ant colony",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324920000431",
+    "title": "NLE volume 26 issue 5 Cover and Back matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132492300058x",
+    "title": "Automated annotation of parallel bible corpora with cross-lingual semantic concordance",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324920000108",
+    "title": "Fine-grained analysis of language varieties and demographics",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000536",
+    "title": "Five Tips for a Successful API",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000141",
+    "title": "Emerging trends: Risks 3.0 and proliferation of spyware to 50,000 cell phones",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324915000091",
+    "title": "CO-graph: A new graph-based technique for cross-lingual word sense disambiguation",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324922000365",
+    "title": "Emerging trends: Deep nets thrive on scale",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324920000145",
+    "title": "Emerging trends: Subwords, seriously?",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324918000220",
+    "title": "A state-of-the-art of semantic change computation",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324918000104",
+    "title": "Understanding visual scenes",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324920000091",
+    "title": "Spoken Arabic dialect recognition using X-vectors",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000170",
+    "title": "Text classification with semantically enriched word embeddings",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324917000122",
+    "title": "NLE volume 23 issue 3 Cover and Back matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324922000067",
+    "title": "NLE volume 28 issue 2 Cover and Front matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s135132491700016x",
+    "title": "A Semi-automatic and low-cost method to learn patterns for named entity recognition",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324920000066",
+    "title": "Unsupervised modeling anomaly detection in discussion forums posts using global vectors for text representation",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324915000108",
+    "title": "Textual entailment graphs",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324917000134",
+    "title": "Social media text normalization for Turkish",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324920000327",
+    "title": "A systematic review of unsupervised approaches to grammar induction",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324922000195",
+    "title": "Turkish abstractive text summarization using pretrained sequence-to-sequence models",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000250",
+    "title": "NLE volume 28 issue 4 Cover and Back matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000177",
+    "title": "Peter Lasersohn. Subjectivity and Perspective in Truth-Theoretic Semantics. Oxford, Oxford University Press, 2017. ISBN 9780199573677. XVIII + 274 pages.",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324917000031",
+    "title": "NLE volume 23 issue 2 Cover and Back matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324917000225",
+    "title": "NLE volume 23 issue 4 Cover and Back matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324923000128",
+    "title": "What should be encoded by position embedding for neural network language models?",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324919000640",
+    "title": "Voice assistance in 2019",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324915000017",
+    "title": "A statistical model for grammar mapping",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324917000420",
+    "title": "Unsupervised learning of semantic representation for documents with the law of total probability",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324919000032",
+    "title": "A learning to rank approach for cross-language information retrieval exploiting multiple translation resources",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324922000432",
+    "title": "Improving aspect-based neural sentiment classification with lexicon enhancement, attention regularization and sentiment induction",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000098",
+    "title": "Where to put the image in an image caption generator",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s135132491800013x",
+    "title": "Aspect opinion expression and rating prediction via LDA–CRF hybrid",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324917000389",
+    "title": "Emerging trends: A tribute to Charles Wayne",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324921000383",
+    "title": "Authorship attribution using author profiling classifiers",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s135132491800027x",
+    "title": "Text analytics APIs, Part 2: The smaller players",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s135132492100005x",
+    "title": "Emerging trends: Ethics, intimidation, and the Cold War",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324919000342",
+    "title": "Learning keyphrases from corpora and knowledge models",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324922000201",
+    "title": "Natural Language Processing for Corpus Linguistics by Jonathan Dunn. Cambridge: Cambridge University Press, 2022. ISBN 9781009070447 (PB), ISBN 9781009070447 (OC), vi+88 pages.",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324920000388",
+    "title": "Focus of negation: Its identification in Spanish",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132492200050x",
+    "title": "Parameter-efficient feature-based transfer for paraphrase identification",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324921000115",
+    "title": "SwitchNet: Learning to switch for word-level language identification in code-mixed social media text",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324924000032",
+    "title": "Start-up activity in the LLM ecosystem",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324923000360",
+    "title": "Describe the house and I will tell you the price: House price prediction with textual description data",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324917000067",
+    "title": "Emerging trends: I did it, I did it, I did it, but. . .",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324920000194",
+    "title": "Is your document novel? Let attention guide you. An attention-based model for document-level novelty detection",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000056",
+    "title": "Annotating a broad range of anaphoric phenomena, in a variety of genres: the ARRAU Corpus",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000315",
+    "title": "Imparting interpretability to word embeddings while preserving semantic structure",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324922000389",
+    "title": "NLE volume 28 issue 5 Cover and Back matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324921000486",
+    "title": "Towards improving the robustness of sequential labeling models against typographical adversarial examples using triplet loss",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000493",
+    "title": "SEN: A subword-based ensemble network for Chinese historical entity extraction",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000092",
+    "title": "Explainable lexical entailment with semantic graphs",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s135132491800044x",
+    "title": "InferPortOIE: A Portuguese Open Information Extraction system with inferences",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324921000425",
+    "title": "UNLT: Urdu Natural Language Toolkit",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000141",
+    "title": "A closed-domain question answering framework using reliable resources to assist students",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324923000372",
+    "title": "Actionable conversational quality indicators for improving task-oriented dialog systems",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324922000456",
+    "title": "Towards universal methods for fake news detection",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000304",
+    "title": "Named-entity recognition in Turkish legal texts",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000286",
+    "title": "Artificial fine-tuning tasks for yes/no question answering",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000226",
+    "title": "High-dimensional distributed semantic spaces for utterances",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324918000207",
+    "title": "NLE volume 24 issue 4 Cover and Front matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324917000481",
+    "title": "Measuring bilingual corpus comparability",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324922000377",
+    "title": "NLE volume 28 issue 5 Cover and Front matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324920000406",
+    "title": "Incorporating word embeddings in unsupervised morphological segmentation",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324918000116",
+    "title": "The role of image representations in vision to language tasks",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s135132491900038x",
+    "title": "Language model adaptation for language and dialect identification of text",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324922000109",
+    "title": "Generating Arabic TAG for syntax-semantics analysis",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000354",
+    "title": "Finding next of kin: Cross-lingual embedding spaces for related languages",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324916000152",
+    "title": "Building and using multimodal comparable corpora for machine translation",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324919000275",
+    "title": "A survey of 25 years of evaluation",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000601",
+    "title": "GPT-3: What’s it good for?",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324917000316",
+    "title": "NLE volume 23 issue 5 Cover and Front matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s135132491900041x",
+    "title": "Preface",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s135132492000039x",
+    "title": "Automatic generation of lexica for sentiment polarity shifters",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324921000012",
+    "title": "Extracting possessions from text: Experiments and error analysis",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324923000220",
+    "title": "Polish natural language inference and factivity: An expert-based dataset and benchmarks",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324922000353",
+    "title": "Quantifying the impact of context on the quality of manual hate speech annotation",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000615",
+    "title": "Two approaches to compilation of bilingual multi-word terminology lists from lexical resources",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324916000036",
+    "title": "Open-domain extraction of future events from Twitter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324920000078",
+    "title": "Effective multi-dialectal arabic POS tagging",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132492000056x",
+    "title": "Automatic classification of participant roles in cyberbullying: Can we detect victims, bullies, and bystanders in social media text?",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324915000261",
+    "title": "Sparsity and normalization in word similarity systems",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324921000279",
+    "title": "Evaluation of taxonomic and neural embedding methods for calculating semantic similarity",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324919000512",
+    "title": "Twenty-five years of information extraction",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324916000243",
+    "title": "The return of the chatbots",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324920000261",
+    "title": "NLE volume 26 issue 4 Cover and Front matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132491600036x",
+    "title": "NLE volume 23 issue 1 Cover and Front matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324919000123",
+    "title": "Query-based summarization of discussion threads",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324916000164",
+    "title": "Building a multi-domain comparable corpus using a learning to rank method",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324921000048",
+    "title": "NLE volume 27 issue 2 Cover and Back matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324923000281",
+    "title": "Explainable Natural Language Processing, by Anders Søgaard. San Rafael, CA: Morgan &amp; Claypool, 2021. ISBN 978-1-636-39213-4. XV+107 pages.",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324917000365",
+    "title": "DEXTER: A workbench for automatic term extraction with specialized corpora",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324919000408",
+    "title": "Using linguistically defined specific details to detect deception across domains",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324917000353",
+    "title": "The pros and cons of listening devices",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324917000018",
+    "title": "NLP in a post-truth world",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324915000042",
+    "title": "The limits of intelligent personal assistants",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324915000340",
+    "title": "A survey of graphs in natural language processing",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324918000335",
+    "title": "Emerging trends: APIs for speech and machine translation and more",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324923000505",
+    "title": "Abstractive summarization with deep reinforcement learning using semantic similarity rewards",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324915000352",
+    "title": "NLE volume 21 issue 5 Cover and Front matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324920000169",
+    "title": "NLE volume 26 issue 3 Cover and Back matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132491900055x",
+    "title": "Editorial note",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s135132492200016x",
+    "title": "NLE volume 28 issue 3 Cover and Back matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000159",
+    "title": "NLE volume 25 issue 3 Cover and Back matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324921000413",
+    "title": "Statistics in Corpus Linguistics: A New Approach by Sean Wallis. New York/Oxon: Routledge, 2021. ISBN 9781138589384 (PB: 44.95), ISBN 9781138589377 (HB: 160.00), ISBN 9780429491696 (eBook: 44.95), xxvi+382 pages.",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000445",
+    "title": "Domain bias in distinguishing Flemish and Dutch subtitles",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324922000420",
+    "title": "A randomized prospective study of a hybrid rule- and data-driven virtual patient",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s135132491900024x",
+    "title": "Analyzing and interpreting neural networks for NLP: A report on the first BlackboxNLP workshop",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324920000595",
+    "title": "Exploiting native language interference for native language identification",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324915000443",
+    "title": "NLP-driven citation analysis for scientometrics",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324922000262",
+    "title": "Automated hate speech detection and span extraction in underground hacking and extremist forums",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000347",
+    "title": "Models to represent linguistic linked data",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324921000164",
+    "title": "The automated writing assistance landscape in 2021",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324917000468",
+    "title": "Term variation in specialised corpora: Characterisation, automatic discovery and applications, by B. Daille \n            John Benjamins Publishing Company (Terminology and Lexicography Research and Practice), 2017",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s135132492000042x",
+    "title": "NLE volume 26 issue 5 Cover and Front matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000273",
+    "title": "NLE volume 26 issue 4 Cover and Back matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000482",
+    "title": "NLE volume 25 issue 5 Cover and Back matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324918000402",
+    "title": "NLE volume 24 issue 6 Cover and Back matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324915000376",
+    "title": "Mapping Arabic WordNet synsets to Wikipedia articles using monolingual and bilingual features",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324919000433",
+    "title": "Tackling challenges of neural purchase stage identification from imbalanced twitter data",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s135132492300027x",
+    "title": "Cluster-based ensemble learning model for improving sentiment classification of Arabic documents",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324920000029",
+    "title": "Learning to rank for multi-label text classification: Combining different sources of information",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132491700047x",
+    "title": "A framework for enriching lexical semantic resources with distributional semantics",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324915000406",
+    "title": "Multilingual native language identification",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324918000189",
+    "title": "Emerging trends: Artificial Intelligence, China and my new job at Baidu",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324922000018",
+    "title": "SoundexGR: An algorithm for phonetic matching for the Greek language",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000378",
+    "title": "Measuring diachronic language distance using perplexity: Application to English, Portuguese, and Spanish",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324924000044",
+    "title": "Emerging trends: a gentle introduction to RAG",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324917000055",
+    "title": "Domain-Sensitive Temporal Tagging, by Jannik Strötgen , Michael Gertz . CA, USA. Morgan &amp; Claypool, 2016. ISBN 9781627054591. 152 pages.",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324915000157",
+    "title": "Predicting word choice in affective text",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324919000251",
+    "title": "NLE volume 25 issue 4 Cover and Front matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324916000115",
+    "title": "Recent advances in machine translation using comparable corpora",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324921000140",
+    "title": "Robert C. Berwick and Edward P. Stabler, editors. Minimalist Parsing. Oxford: Oxford University Press, 2019. ISBN: 978-0-19-879508-7. Price. $40.00 (paperback). $84.00 (hardcover). xvi+192 pages",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324916000280",
+    "title": "Editor’s Preface to Emerging Trends",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324919000020",
+    "title": "GANs vs. good enough",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000232",
+    "title": "Plot extraction and the visualization of narrative flow",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324919000214",
+    "title": "A structured distributional model of sentence meaning and processing",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000311",
+    "title": "Korean named entity recognition based on language-specific features",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324920000662",
+    "title": "A machine translation mechanism of Brazilian Portuguese to Libras with syntactic-semantic adequacy",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324923000517",
+    "title": "OffensEval 2023: Offensive language identification in the age of Large Language Models",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324918000025",
+    "title": "Topics and topical phases in German social media communication during a disaster",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324923000578",
+    "title": "Emerging trends: When can users trust GPT, and when should they intervene?",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324915000169",
+    "title": "NLE volume 21 issue 3 Cover and Front matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324918000037",
+    "title": "NLE volume 24 issue 2 Cover and Front matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324921000073",
+    "title": "NLE volume 27 issue 3 Cover and Back matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324919000573",
+    "title": "NLE volume 25 issue 6 Cover and Back matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324917000213",
+    "title": "NLE volume 23 issue 4 Cover and Front matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324918000451",
+    "title": "Neural architectures for open-type relation argument extraction",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324917000171",
+    "title": "Multilingual extension and evaluation of a poetry generator",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324920000467",
+    "title": "Improved feature decay algorithms for statistical machine translation",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324923000323",
+    "title": "Masked transformer through knowledge distillation for unsupervised text style transfer",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324923000566",
+    "title": "How do control tokens affect natural language generation tasks like text simplification",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s135132492200033x",
+    "title": "An empirical study of incorporating syntactic constraints into BERT-based location metonymy resolution",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s135132492100019x",
+    "title": "Creation of annotated country-level dialectal Arabic resources: An unsupervised approach",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324923000190",
+    "title": "Morphosyntactic probing of multilingual BERT models",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324921000127",
+    "title": "TNT-KID: Transformer-based neural tagger for keyword identification",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324920000200",
+    "title": "Sentiment analysis in Turkish: Supervised, semi-supervised, and unsupervised techniques",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324919000603",
+    "title": "Horacio Saggion, Automatic Text Simplification. Synthesis lectures on human language technologies, April 2017. 137 pages, ISBN:1627058680 9781627058681",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324916000085",
+    "title": "NLE volume 22 issue 3 Cover and Back matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324915000418",
+    "title": "NLE volume 22 issue 1 Cover and Front matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324923000554",
+    "title": "A year’s a long time in generative AI",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s135132492100022x",
+    "title": "Efficient bilingual lexicon extraction from comparable corpora based on formal concepts analysis",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324921000176",
+    "title": "NLE volume 27 issue 4 Cover and Front matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324922000468",
+    "title": "NLE volume 28 issue 6 Cover and Front matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000219",
+    "title": "NLE volume 24 issue 4 Cover and Back matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324918000359",
+    "title": "MUSED: A multimedia multi-document dataset for topic segmentation",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324920000649",
+    "title": "Text Mining with R: A Tidy Approach, by Julia Silge and David Robinson. Sebastopol, CA: O’Reilly Media, 2017. ISBN 978-1-491-98165-8. XI + 184 pages.",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324923000074",
+    "title": "Syntactic n-grams in Computational Linguistics, by Grigori Sidorov. Cham, Springer Nature, 2019. ISBN 9783030147716. IX + 92 pages.",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324915000224",
+    "title": "ISO standard modeling of a large Arabic dictionary",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324918000281",
+    "title": "The effect of morphology in named entity recognition with sequence tagging",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324922000407",
+    "title": "From theories on styles to their transfer in text: Bridging the gap with a hierarchical survey",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000013",
+    "title": "Text analytics APIs, Part 1: The bigger players",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324923000207",
+    "title": "Improving semantic coverage of data-to-text generation model using dynamic memory networks",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324920000017",
+    "title": "Constrained BERT BiLSTM CRF for understanding multi-sentence entity-seeking questions",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324922000481",
+    "title": "Emerging trends: Unfair, biased, addictive, dangerous, deadly, and insanely profitable",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000475",
+    "title": "Law and Word Order: NLP in Legal Tech",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324919000287",
+    "title": "Neural morphosyntactic tagging for Rusyn",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000189",
+    "title": "Urdu paraphrase detection: A novel DNN-based implementation using a semi-automatically generated corpus",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s135132492300013x",
+    "title": "SAN-T2T: An automated table-to-text generator based on selective attention network",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324916000383",
+    "title": "Natural language processing in mental health applications using non-clinical texts",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324921000322",
+    "title": "Emerging trends: A gentle introduction to fine-tuning",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324920000042",
+    "title": "NLE volume 26 issue 2 Cover and Front matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324921000449",
+    "title": "NLE volume 28 issue 1 Cover and Back matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324917000432",
+    "title": "NLE volume 24 issue 1 Cover and Front matter",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s135132491500042x",
+    "title": "NLE volume 22 issue 1 Cover and Back matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324918000062",
+    "title": "Possession identification in text",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324918000232",
+    "title": "Alignment of comparable documents: Comparison of similarity measures on French–English–Arabic data",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324923000153",
+    "title": "Determining sentiment views of verbal multiword expressions using linguistic features",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324915000285",
+    "title": "Data-driven deep-syntactic dependency parsing",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324916000061",
+    "title": "Checking in on grammar checking",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324916000231",
+    "title": "Keyword extraction from emails",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s135132491500039x",
+    "title": "Translating text into pictographs",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324922000043",
+    "title": "Emerging Trends: SOTA-Chasing",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324917000390",
+    "title": "Exploring open information via event network",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324915000467",
+    "title": "NLE volume 22 issue 2 Cover and Front matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324918000165",
+    "title": "NLE volume 24 issue 3 Cover and Back matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324924000068",
+    "title": "Emerging trends: evaluating general purpose foundation models",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324923000426",
+    "title": "PGST: A Persian gender style transfer method",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324916000395",
+    "title": "Detecting sexual predators in chats using behavioral features and imbalanced learning",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324921000450",
+    "title": "$NLP: How to spend a billion dollars",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324919000561",
+    "title": "NLE volume 25 issue 6 Cover and Front matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000664",
+    "title": "NLE volume 26 issue 1 Cover and Back matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324918000384",
+    "title": "Identifying signs of syntactic complexity for rule-based sentence simplification",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324915000121",
+    "title": "In Memory of Geoffrey Leech – ERRATUM",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324921000243",
+    "title": "NLE volume 27 issue 5 Cover and Front matter",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324922000055",
+    "title": "MHeTRep: A multilingual semantically tagged health terms repository",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324923000177",
+    "title": "Joint learning of text alignment and abstractive summarization for long documents via unbalanced optimal transport",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324919000627",
+    "title": "Transfer learning for Turkish named entity recognition on noisy text",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000236",
+    "title": "Computational generation of slogans",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000443",
+    "title": "Cluster-based mention typing for named entity disambiguation",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324922000444",
+    "title": "A benchmark for evaluating Arabic word embedding models",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324923000438",
+    "title": "Improving short text classification with augmented data using GPT-3",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s135132491600022x",
+    "title": "NLE volume 22 issue 5 Cover and Back matter",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s135132491800030x",
+    "title": "NLE volume 24 issue 5 Cover and Front matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324920000480",
+    "title": "Preface",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324915000248",
+    "title": "NLE volume 21 issue 4 Cover and Front matter",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324921000231",
+    "title": "Emerging trends: Deep nets for poets",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324919000184",
+    "title": "Jointly learning sentence embeddings and syntax with unsupervised Tree-LSTMs",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324917000237",
+    "title": "The commercial NLP landscape in 2017",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324921000280",
+    "title": "Meemi: A simple method for post-processing and integrating cross-lingual word embeddings",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324920000339",
+    "title": "Improving speech emotion recognition based on acoustic words emotion dictionary",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324920000613",
+    "title": "NLE volume 27 issue 1 Cover and Front matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s135132491900007x",
+    "title": "NLE volume 25 issue 2 Cover and Back matter",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324918000372",
+    "title": "Editorial note",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324920000571",
+    "title": "NLE volume 26 issue 6 Cover and Front matter",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324921000267",
+    "title": "An analysis of property inference methods",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324918000190",
+    "title": "Weighting-based semantic similarity measure based on topological parameters in semantic taxonomy",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324917000092",
+    "title": "A scalable architecture for data-intensive natural language processing",
+    "year": 2017
+  },
+  {
+    "doi": "10.1017/s1351324921000309",
+    "title": "Reducing repetition in convolutional abstractive summarization",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324920000133",
+    "title": "Nonuniform language in technical writing: Detection and correction",
+    "year": 2020
+  },
+  {
+    "doi": "10.1017/s1351324923000414",
+    "title": "A study towards contextual understanding of toxicity in online conversations",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324918000323",
+    "title": "A novel ILP framework for summarizing content with high lexical variety",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324920000650",
+    "title": "Neural Machine Translation 2020, by Philipp Koehn, Cambridge, Cambridge University Press, ISBN 978-1-108-49732-9, pages 393.",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324921000139",
+    "title": "Automatic question generation based on sentence structure analysis using machine learning approach",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324923000268",
+    "title": "A resampling-based method to evaluate NLI models",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324916000206",
+    "title": "Improving mention detection for Basque based on a deep error analysis",
+    "year": 2016
+  },
+  {
+    "doi": "10.1017/s1351324915000145",
+    "title": "Computational generation and dissection of lexical replacement humor",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324922000080",
+    "title": "Enhancing deep neural networks with morphological information",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324915000182",
+    "title": "Influence of personal choices on lexical variability in referring expressions",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324918000499",
+    "title": "NLE volume 25 issue 1 Cover and Back matter",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324919000597",
+    "title": "Deep Learning in Natural Language Processing, edited by Li Deng and Yang Liu. Singapore: Springer, 2018. ISBN 9789811052088. XVII + 329 pages",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324915000273",
+    "title": "Silhouette + attraction: A simple and effective method for text clustering",
+    "year": 2015
+  },
+  {
+    "doi": "10.1017/s1351324918000463",
+    "title": "Out-domain Chinese new word detection with statistics-based character embedding",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324919000202",
+    "title": "Sentence embeddings in NLI with iterative refinement encoders",
+    "year": 2019
+  },
+  {
+    "doi": "10.1017/s1351324923000542",
+    "title": "Lightweight transformers for clinical natural language processing",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s1351324918000414",
+    "title": "Extractive multi-document summarization based on textual entailment and sentence compression via knapsack problem",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324918000426",
+    "title": "Arabic community question answering",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1351324923000104",
+    "title": "A transformer-based multi-task framework for joint detection of aggression and hate on social media data",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324922000249",
+    "title": "NLE volume 28 issue 4 Cover and Front matter",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324922000523",
+    "title": "On generalization of the sense retrofitting model",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324923000359",
+    "title": "Toward a shallow discourse parser for Turkish",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324922000511",
+    "title": "KLAUS-Tr: Knowledge &amp; learning-based unit focused arithmetic word problem solver for transfer cases",
+    "year": 2022
+  },
+  {
+    "doi": "10.1017/s1351324921000310",
+    "title": "Sentence encoding for Dialogue Act classification",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324922000535",
+    "title": "How to do human evaluation: A brief introduction to user studies in NLP",
+    "year": 2023
+  },
+  {
+    "doi": "10.1017/s1351324921000085",
+    "title": "Overcoming Challenges in Corpus Construction: The Spoken British National Corpus 2014, by Robbie Love. New York: Routledge, 2020. ISBN 978-1-138-36737-1, xviii + 202 pages",
+    "year": 2021
+  },
+  {
+    "doi": "10.1017/s1351324915000315",
+    "title": "Phonetisaurus: Exploring grapheme-to-phoneme conversion with joint n-gram models in the WFST framework",
+    "year": 2015
+  }
+]
