@@ -1,0 +1,288 @@
+MiniLM-L6,MPNet-Base,SPECTER,year,title
+0.43585634,0.5538093,0.78484046,2018,Extraction of templates from phrases using Sequence Binary Decision Diagrams
+0.40684596,0.43848675,0.8488914,2023,Emerging trends: Smooth-talking machines
+0.36694682,0.50826323,0.7837966,2022,Gender bias in legal corpora and debiasing it
+0.31672287,0.4097652,0.8028077,2022,From unified phrase representation to bilingual phrase alignment in an unsupervised manner
+0.42686403,0.50124615,0.84298813,2021,Topical Language Generation using Transformers
+0.37850076,0.564835,0.806138,2020,Negation detection for sentiment analysis: A case study in Spanish
+0.3411443,0.4067204,0.74220777,2019,Robust stylometric analysis and author attribution based on tones and rimes
+0.28723678,0.4835682,0.80230856,2019,"Mining, analyzing, and modeling text written on mobile devices"
+0.39787516,0.5352729,0.8468988,2019,How to evaluate machine translation: A review of automated and human metrics
+0.36654374,0.46548694,0.80580956,2016,End-to-end statistical machine translation with zero or small parallel texts†
+0.28227228,0.35836336,0.74281645,2019,Learning semantic sentence representations from visually grounded language without lexical knowledge
+0.4289716,0.44160473,0.73396784,2023,Neural Arabic singular-to-plural conversion using a pretrained Character-BERT and a fused transformer
+0.28584784,0.3693568,0.7666962,2022,In-depth analysis of the impact of OCR errors on named entity recognition and linking
+0.3201379,0.49430263,0.74339736,2021,Annotating argumentative structure in English-as-a-Foreign-Language learner essays
+0.44688928,0.5741259,0.86769205,2020,Recent advances in processing negation
+0.4485833,0.49825177,0.7903256,2022,Recognition of visual scene elements from a story text in Persian natural language
+0.34246135,0.4671214,0.87126446,2022,RoLEX: The development of an extended Romanian lexical dataset and its evaluation at predicting concurrent lexical information
+0.4518867,0.49959773,0.80961096,2023,Towards diverse and contextually anchored paraphrase modeling: A dataset and baselines for Finnish
+0.33926827,0.55831563,0.8367462,2023,An unsupervised perplexity-based method for boilerplate removal
+0.3079097,0.39058268,0.7235664,2019,Combining n-grams and deep convolutional features for language variety classification
+0.33197314,0.48744926,0.79779965,2022,Killing me softly: Creative and cognitive aspects of implicitness in abusive language online
+0.4210189,0.5079226,0.78105724,2023,Linguistically aware evaluation of coreference resolution from the perspective of higher-level applications
+0.2943026,0.49157837,0.7871763,2020,Learning from noisy out-of-domain corpus using dataless classification
+0.56022394,0.50380576,0.9135345,2022,A survey of methods for revealing and overcoming weaknesses of data-driven Natural Language Understanding
+0.31562033,0.29192394,0.7539319,2022,The voice synthesis business: 2022 update
+0.32257193,0.49402398,0.74786,2022,Emojis as anchors to detect Arabic offensive language and hate speech
+0.30336985,0.5230261,0.7725738,2019,Uncovering the language of wine experts
+0.40299064,0.48788357,0.8304863,2019,Detecting light verb constructions across languages
+0.44094712,0.45020533,0.8301339,2022,Abstract meaning representation of Turkish
+0.42161164,0.5159914,0.7583732,2021,Focusing on potential named entities during active label acquisition
+0.29845053,0.5071987,0.7737266,2016,Word2Vec
+0.3167522,0.38809067,0.70696497,2024,Anisotropic span embeddings and the negative impact of higher-order inference for coreference resolution: An empirical analysis
+0.34357473,0.48513412,0.81496453,2021,"Compositional matrix-space models of language: Definitions, properties, and learning methods"
+0.16929093,0.2892811,0.71280324,2020,Emerging trends: Reviewing the reviewers (again)
+0.35275525,0.43697655,0.7404177,2023,Data-to-text generation using conditional generative adversarial with enhanced transformer
+0.3320484,0.48778388,0.79986733,2019,Improving sentiment analysis with multi-task learning of negation
+0.62756175,0.6268357,0.8477216,2023,NLP startup funding in 2022
+0.37484103,0.48222503,0.81154263,2019,Effectiveness of data-driven induction of semantic spaces and traditional classifiers for sarcasm detection
+0.32269567,0.47535646,0.8028701,2020,Investigating translated Chinese and its variants using machine learning
+0.3324177,0.4306497,0.80120015,2020,Unsupervised Arabic dialect segmentation for machine translation
+0.3389601,0.42435718,0.8673138,2019,Representation of sentence meaning (A JNLE Special Issue)
+0.23800585,0.2657185,0.7486905,2023,Perceptional and actional enrichment for metaphor detection with sensorimotor norms
+0.610106,0.5730225,0.8634919,2020,Natural language generation: The commercial state of the art in 2020
+0.35314617,0.38982287,0.7617719,2018,Assessing multilingual multimodal image description: Studies of native speaker preferences and translator choices
+0.3594836,0.48324466,0.7962543,2016,Sentiment analysis in Turkish at different granularity levels
+0.33136088,0.48029524,0.77137375,2023,The problem of varying annotations to identify abusive language in social media content
+0.34032747,0.42762432,0.7481472,2020,Syntax-ignorant N-gram embeddings for dialectal Arabic sentiment analysis
+0.39852205,0.50877273,0.8353938,2019,How to tag non-standard language: Normalisation versus domain adaptation for Slovene historical and user-generated texts
+0.27305675,0.45084918,0.7802793,2021,A comparison of latent semantic analysis and correspondence analysis of document-term matrices
+0.10400772,0.22011533,0.7259258,2017,Emerging trends: Inflation
+0.0718112,0.08024976,0.7257068,2022,NLE volume 28 issue 1 Cover and Front matter
+0.39425737,0.47622162,0.81354785,2019,A new approach for textual feature selection based on N-composite isolated labels
+0.3875231,0.4286661,0.80684197,2020,Linguistic knowledge-based vocabularies for Neural Machine Translation
+0.28159598,0.45168865,0.77185297,2021,Deception detection in text and its relation to the cultural dimension of individualism/collectivism
+0.3641085,0.5184405,0.79158485,2020,Neural machine translation of low-resource languages using SMT phrase pair injection
+0.31596315,0.43274873,0.7555915,2019,Term evaluation metrics in imbalanced text categorization
+0.36027646,0.5054212,0.77912235,2019,Integrating LSA-based hierarchical conceptual space and machine learning methods for leveling the readability of domain-specific texts
+0.3836106,0.58852905,0.8032262,2019,Neural text normalization with adapted decoding and POS features
+0.4091671,0.44748393,0.734656,2023,An end-to-end neural framework using coarse-to-fine-grained attention for overlapping relational triple extraction
+0.43773004,0.40924132,0.78403056,2023,Creating a large-scale diachronic corpus resource: Automated parsing in the Greek papyri (and beyond)
+0.33946565,0.4638167,0.6828805,2023,SSL-GAN-RoBERTa: A robust semi-supervised model for detecting Anti-Asian COVID-19 hate speech on social media
+0.20930436,0.43983445,0.6839913,2023,How you describe procurement calls matters: Predicting outcome of public procurement using call descriptions
+0.4474358,0.5208392,0.77518964,2019,It all starts with entities: A Salient entity topic model
+0.3317443,0.46060687,0.8360227,2019,An overview of word and sense similarity
+0.4039057,0.43892884,0.7752095,2020,A note on constituent parsing for Korean
+0.26550034,0.30364877,0.7008763,2021,Lexicon or grammar? Using memory-based learning to investigate the syntactic relationship between Belgian and Netherlandic Dutch
+0.28675383,0.47533366,0.8318591,2020,A clustering framework for lexical normalization of Roman Urdu
+0.4754644,0.5319277,0.7368343,2022,Neural automated writing evaluation for Korean L2 writing
+0.47068995,0.5073788,0.9069319,2020,"Natural language processing for similar languages, varieties, and dialects: A survey"
+0.583195,0.665982,0.8919292,2022,Comparison of text preprocessing methods
+0.37259847,0.4728477,0.7935087,2019,Word sense disambiguation using implicit information
+0.1865592,0.45210952,0.7089119,2022,Leveraging machine translation for cross-lingual fine-grained cyberbullying classification amongst pre-adolescents
+0.39143476,0.4280855,0.78909117,2020,A Survey on Machine Reading Comprehension Systems
+0.50503474,0.6188664,0.8261448,2019,Automatic summarisation: 25 years On
+0.37917176,0.5580335,0.785474,2020,Comparison of rule-based and neural network models for negation detection in radiology reports
+0.47554883,0.58251,0.8410794,2016,How to make money in the translation business
+0.19771455,0.18283093,0.7494582,2024,Soap 'n' AI
+0.41498524,0.5633868,0.83256674,2019,Estimating word-level quality of statistical machine translation output using monolingual information alone
+0.27348393,0.380459,0.66916645,2023,Improved conversational recommender system based on dialog context
+0.42976117,0.5612676,0.8596209,2022,A survey of the extraction and applications of causal relations
+0.35092875,0.5068784,0.7090452,2021,Ranking Facts for Explaining Answers to Elementary Science Questions
+0.35014075,0.4337751,0.7717715,2019,Neural embeddings: accurate and readable inferences based on semantic kernels
+0.5434193,0.4609344,0.85158217,2015,NLP meets the cloud
+0.84172803,0.79216325,0.9587612,2019,NLP commercialisation in the last 25 years
+0.2257882,0.3040634,0.68388605,2021,Lyrics segmentation via bimodal text–audio representation
+0.40323555,0.5324125,0.735041,2018,Multilingual SMS-based author profiling: Data and methods
+0.4503047,0.48073363,0.8298929,2018,A neural approach for inducing multilingual resources and natural language processing tools for low-resource languages
+0.29935396,0.26188955,0.71001804,2022,An empirical study of cyclical learning rate on neural machine translation
+0.4468127,0.5548576,0.8418962,2020,Supervised learning for the detection of negation and of its scope in French and Brazilian Portuguese biomedical corpora
+0.40835392,0.4529717,0.7839074,2022,Real-world sentence boundary detection using multitask learning: A case study on French
+0.38442636,0.45219186,0.781144,2019,Universal Lemmatizer: A sequence-to-sequence model for lemmatizing Universal Dependencies treebanks
+0.409392,0.49288914,0.9056598,2019,Editorial note
+0.35565114,0.43211812,0.827065,2020,Towards syntax-aware token embeddings
+0.5605008,0.544267,0.87389123,2023,Preface: Special issue on NLP approaches to offensive content online
+0.2948778,0.433734,0.7116311,2022,Enhancement of Twitter event detection using news streams
+0.38806072,0.37885296,0.822909,2022,Ad astra or astray: Exploring linguistic knowledge of multilingual BERT through NLI task
+0.370466,0.42661095,0.7920394,2022,Construction Grammar Conceptual Network: Coordination-based graph method for semantic association analysis
+0.43854487,0.4755302,0.83697903,2019,Keyword extraction: Issues and methods
+0.4021052,0.45458627,0.7924824,2023,"Argumentation models and their use in corpus annotation: Practice, prospects, and challenges"
+0.45867863,0.5418818,0.791332,2018,SaferDrive: An NLG-based behaviour change support system for drivers
+0.09819169,0.13452202,0.6684667,2016,The next generation
+0.29718256,0.33832276,0.7500542,2022,Emerging trends: General fine-tuning (gft)
+0.4226632,0.37443578,0.7728646,2022,Joint learning of morphology and syntax with cross-level contextual information flow
+0.34704426,0.4226702,0.7055361,2021,Automated evaluation of the quality of ideas in compositions based on concept maps
+0.5224458,0.5298052,0.7884127,2023,Navigating the text generation revolution: Traditional data-to-text NLG companies and the rise of ChatGPT
+0.41854516,0.5314425,0.78303134,2021,Gamified crowdsourcing for idiom corpora construction
+0.39484704,0.45453888,0.7561436,2019,Designing a virtual patient dialogue system based on terminology-rich resources: Challenges and evaluation
+0.41818655,0.4985733,0.7669876,2019,Weighted finite-state transducers for normalization of historical texts
+0.0718112,0.08024976,0.7257068,2022,NLE volume 28 issue 3 Cover and Front matter
+0.3394752,0.5439625,0.7154359,2020,Compression versus traditional machine learning classifiers to detect code-switching in varieties and dialects: Arabic as a case study
+0.3564973,0.4926415,0.7428223,2022,Towards improving coherence and diversity of slogan generation
+0.4223303,0.5249045,0.80211204,2018,Efficient Phrase Table pruning for Hindi to English machine translation through syntactic and marker-based filtering and hybrid similarity measurement
+0.3735687,0.42394787,0.7662084,2016,Automatic generation of short answer questions for reading comprehension assessment
+0.27825332,0.4905473,0.7599763,2020,Classification of regional and genre varieties of Chinese: A correspondence analysis approach based on comparable balanced corpora
+0.6712575,0.7141931,0.9178145,2019,Anniversary article: Then and now: 25 years of progress in natural language engineering
+0.3335747,0.48896068,0.80448186,2023,Recommending tasks based on search queries and missions
+0.49729943,0.47803223,0.89243037,2019,Discovering multiword expressions
+0.37221327,0.3902723,0.7681108,2020,Benchmarks and goals
+0.3619797,0.42908722,0.72630584,2020,Temporally anchored spatial knowledge: Corpora and experiments
+0.44668946,0.4566421,0.8264583,2019,Annotation projection for temporal information extraction
+0.4031264,0.47903186,0.7528118,2023,Assessment of the E3C corpus for the recognition of disorders in clinical texts
+0.39722037,0.3862504,0.780555,2021,Quinductor: A multilingual data-driven method for generating reading-comprehension questions using Universal Dependencies
+0.45896524,0.5841485,0.87761366,2020,Processing negation: An introduction to the special issue
+0.34226525,0.35933796,0.76740336,2024,Automated annotation of parallel bible corpora with cross-lingual semantic concordance
+0.2880653,0.48303023,0.6715898,2020,Fine-grained analysis of language varieties and demographics
+0.13725984,0.19620037,0.6928346,2019,Five Tips for a Successful API
+0.040732823,0.24886116,0.6887191,2023,"Emerging trends: Risks 3.0 and proliferation of spyware to 50,000 cell phones"
+0.0418407,0.19058633,0.73538125,2022,Emerging trends: Deep nets thrive on scale
+0.35038835,0.42250633,0.7018248,2020,"Emerging trends: Subwords, seriously?"
+0.402941,0.4114444,0.82331675,2018,A state-of-the-art of semantic change computation
+0.29863605,0.35660005,0.734244,2018,Understanding visual scenes
+0.20101774,0.338682,0.709579,2020,Spoken Arabic dialect recognition using X-vectors
+0.32264525,0.47212493,0.8057976,2020,Text classification with semantically enriched word embeddings
+0.0718112,0.08024976,0.7257068,2022,NLE volume 28 issue 2 Cover and Front matter
+0.2503171,0.4027142,0.7292215,2020,Unsupervised modeling anomaly detection in discussion forums posts using global vectors for text representation
+0.30837917,0.40350154,0.8080599,2020,A systematic review of unsupervised approaches to grammar induction
+0.43199372,0.53585863,0.79937226,2022,Turkish abstractive text summarization using pretrained sequence-to-sequence models
+0.37889332,0.50985694,0.8098555,2023,What should be encoded by position embedding for neural network language models?
+0.48493555,0.438415,0.78064084,2019,Voice assistance in 2019
+0.44227564,0.47547883,0.8159332,2015,A statistical model for grammar mapping
+0.37539092,0.46683836,0.7747227,2019,A learning to rank approach for cross-language information retrieval exploiting multiple translation resources
+0.36862087,0.46367794,0.75388277,2022,"Improving aspect-based neural sentiment classification with lexicon enhancement, attention regularization and sentiment induction"
+0.28147626,0.41401204,0.7292018,2017,Where to put the image in an image caption generator
+0.17541379,0.38555342,0.807334,2017,Emerging trends: A tribute to Charles Wayne
+0.42052126,0.5080513,0.694528,2022,Authorship attribution using author profiling classifiers
+0.3601649,0.42093956,0.72512454,2018,"Text analytics APIs, Part 2: The smaller players"
+0.15213165,0.12387389,0.7350905,2021,"Emerging trends: Ethics, intimidation, and the Cold War"
+0.36881453,0.52439946,0.80879563,2019,Learning keyphrases from corpora and knowledge models
+0.6028503,0.63382906,0.8662766,2022,"Natural Language Processing for Corpus Linguistics by Jonathan Dunn. Cambridge: Cambridge University Press, 2022. ISBN 9781009070447 (PB), ISBN 9781009070447 (OC), vi+88 pages"
+0.3984211,0.543092,0.8192503,2020,Focus of negation: Its identification in Spanish
+0.3536452,0.44709578,0.8148457,2022,Parameter-efficient feature-based transfer for paraphrase identification
+0.31802797,0.49956757,0.81938624,2021,SwitchNet: Learning to switch for word-level language identification in code-mixed social media text
+0.41566396,0.4645334,0.79952514,2024,Start-up activity in the LLM ecosystem
+0.3421983,0.41656542,0.72397196,2023,Describe the house and I will tell you the price: House price prediction with textual description data
+0.15272966,0.28033012,0.7322042,2017,"Emerging trends: I did it, I did it, I did it, but. . ."
+0.33669084,0.40775266,0.7643863,2020,Is your document novel? Let attention guide you. An attention-based model for document-level novelty detection
+0.42382652,0.45845065,0.8290888,2019,"Annotating a broad range of anaphoric phenomena, in a variety of genres: the ARRAU Corpus"
+0.39604494,0.45191675,0.8071197,2018,Imparting interpretability to word embeddings while preserving semantic structure
+0.40211833,0.41283447,0.8250983,2022,Towards improving the robustness of sequential labeling models against typographical adversarial examples using triplet loss
+0.3699661,0.46055865,0.71784335,2022,SEN: A subword-based ensemble network for Chinese historical entity extraction
+0.44592434,0.45631596,0.84158164,2022,Explainable lexical entailment with semantic graphs
+0.41942477,0.5007083,0.7925407,2018,InferPortOIE: A Portuguese Open Information Extraction system with inferences
+0.48396415,0.5943188,0.9081671,2022,UNLT: Urdu Natural Language Toolkit
+0.30087858,0.52287996,0.74947363,2021,Actionable conversational quality indicators for improving task-oriented dialog systems
+0.28289932,0.4329876,0.7650657,2022,Towards universal methods for fake news detection
+0.35684747,0.49963832,0.8034755,2022,Named-entity recognition in Turkish legal texts
+0.4412966,0.51534057,0.7789297,2022,Artificial fine-tuning tasks for yes/no question answering
+0.35286957,0.4762398,0.7786427,2019,High-dimensional distributed semantic spaces for utterances
+0.0718112,0.08024976,0.7257068,2022,NLE volume 28 issue 5 Cover and Front matter
+0.32180646,0.36625853,0.80785596,2020,Incorporating word embeddings in unsupervised morphological segmentation
+0.29054308,0.36007467,0.73438215,2018,The role of image representations in vision to language tasks
+0.24081996,0.36738306,0.81499493,2019,Language model adaptation for language and dialect identification of text
+0.480438,0.44389182,0.78158605,2022,Generating Arabic TAG for syntax-semantics analysis
+0.36861724,0.42328846,0.8120113,2019,Finding next of kin: Cross-lingual embedding spaces for related languages
+0.21883222,0.47379658,0.79854274,2019,A survey of 25 years of evaluation
+0.4445215,0.5352951,0.82595706,2020,GPT-3: What’s it good for?
+-0.019658394,-0.019349799,0.5576662,2019,Preface
+0.39754713,0.5812261,0.7928473,2020,Automatic generation of lexica for sentiment polarity shifters
+0.3538438,0.37674153,0.6871055,2021,Extracting possessions from text: Experiments and error analysis
+0.42549878,0.49828112,0.82900214,2022,Polish natural language inference and factivity: An expert-based dataset and benchmarks
+0.28964537,0.44863304,0.7379482,2022,Quantifying the impact of context on the quality of manual hate speech annotation
+0.40850532,0.44015104,0.84631336,2020,Two approaches to compilation of bilingual multi-word terminology lists from lexical resources
+0.3400221,0.48007506,0.78773993,2020,Effective multi-dialectal arabic POS tagging
+0.31485114,0.49833083,0.7626991,2020,"Automatic classification of participant roles in cyberbullying: Can we detect victims, bullies, and bystanders in social media text?"
+0.24383038,0.33490607,0.77915573,2021,Evaluation of taxonomic and neural embedding methods for calculating semantic similarity
+0.46616897,0.51716053,0.83379203,2019,Twenty-five years of information extraction
+0.24902132,0.3694785,0.7144325,2016,The return of the chatbots
+0.37031615,0.56728506,0.79396963,2019,Query-based summarization of discussion threads
+0.30038273,0.39433205,0.79948306,2019,Using linguistically defined specific details to detect deception across domains
+0.4440261,0.41209173,0.7775501,2017,The pros and cons of listening devices
+0.17239925,0.27672952,0.71255153,2017,NLP in a post-truth world
+0.3726825,0.4818574,0.807773,2015,The limits of intelligent personal assistants
+0.27750686,0.30872434,0.8483181,2018,Emerging trends: APIs for speech and machine translation and more
+0.40221614,0.5286396,0.7817298,2023,Abstractive summarization with deep reinforcement learning using semantic similarity rewards
+0.2508699,0.3606214,0.6960567,2019,Domain bias in distinguishing Flemish and Dutch subtitles
+0.35019743,0.48800015,0.7650198,2022,A randomized prospective study of a hybrid rule- and data-driven virtual patient
+0.5040685,0.46991903,0.90661,2019,Analyzing and interpreting neural networks for NLP: A report on the first BlackboxNLP workshop
+0.3632426,0.4541894,0.839334,2020,Exploiting native language interference for native language identification
+0.24829873,0.4851412,0.68710357,2022,Automated hate speech detection and span extraction in underground hacking and extremist forums
+0.42343193,0.432074,0.84917974,2018,Models to represent linguistic linked data
+0.488442,0.5084326,0.7762035,2021,The automated writing assistance landscape in 2021
+0.22004962,0.45507258,0.7139953,2019,Tackling challenges of neural purchase stage identification from imbalanced twitter data
+0.2363928,0.44201857,0.6902593,2023,Cluster-based ensemble learning model for improving sentiment classification of Arabic documents
+0.2515859,0.4295645,0.7087976,2020,Learning to rank for multi-label text classification: Combining different sources of information
+0.31744713,0.39736485,0.7987058,2017,A framework for enriching lexical semantic resources with distributional semantics
+0.15859944,0.2978321,0.7016986,2018,"Emerging trends: Artificial Intelligence, China and my new job at Baidu"
+0.30033135,0.4448681,0.8698883,2022,SoundexGR: An algorithm for phonetic matching for the Greek language
+0.35398397,0.4258006,0.7764242,2019,"Measuring diachronic language distance using perplexity: Application to English, Portuguese, and Spanish"
+0.28639042,0.40924692,0.72988117,2024,Emerging trends: a gentle introduction to RAG
+0.3878303,0.41970712,0.8153244,2016,Recent advances in machine translation using comparable corpora
+0.07942414,0.19895238,0.6236396,2019,GANs vs. good enough
+0.2791364,0.37631792,0.70283544,2023,Plot extraction and the visualization of narrative flow
+0.38711312,0.37637025,0.80820024,2019,A structured distributional model of sentence meaning and processing
+0.4040815,0.46354705,0.75388956,2023,Korean named entity recognition based on language-specific features
+0.45450062,0.40644574,0.7249255,2021,A machine translation mechanism of Brazilian Portuguese to Libras with syntactic-semantic adequacy
+0.3570997,0.47514004,0.8125103,2023,OffensEval 2023: Offensive language identification in the age of Large Language Models
+0.45990717,0.5586076,0.77890563,2018,Topics and topical phases in German social media communication during a disaster*
+0.32814297,0.45112547,0.7972401,2024,"Emerging trends: When can users trust GPT, and when should they intervene?"
+0.44628406,0.43020144,0.7688222,2018,Neural architectures for open-type relation argument extraction
+0.30832157,0.3940694,0.7838287,2020,Improved feature decay algorithms for statistical machine translation
+0.35067183,0.4369644,0.72769547,2023,Masked transformer through knowledge distillation for unsupervised text style transfer
+0.374606,0.5558375,0.76667696,2024,How do control tokens affect natural language generation tasks like text simplification
+0.4996323,0.43789333,0.73119545,2022,An empirical study of incorporating syntactic constraints into BERT-based location metonymy resolution
+0.3862664,0.5415391,0.7663955,2021,Creation of annotated country-level dialectal Arabic resources: An unsupervised approach
+0.36993194,0.40081555,0.80337167,2023,Morphosyntactic probing of multilingual BERT models
+0.50488466,0.6155616,0.8430195,2020,TNT-KID: Transformer-based neural tagger for keyword identification
+0.37467653,0.54906577,0.8322201,2020,"Sentiment analysis in Turkish: Supervised, semi-supervised, and unsupervised techniques"
+0.3238895,0.287476,0.7111437,2024,A year's a long time in generative AI
+0.3214419,0.44930136,0.8158628,2021,Efficient bilingual lexicon extraction from comparable corpora based on formal concepts analysis
+0.0718112,0.08024976,0.7257068,2022,NLE volume 28 issue 6 Cover and Front matter
+0.2846255,0.4260252,0.7297111,2018,MUSED: A multimedia multi-document dataset for topic segmentation
+0.41512132,0.39609244,0.7749473,2018,The effect of morphology in named entity recognition with sequence tagging
+0.37453234,0.4562688,0.77771485,2021,From theories on styles to their transfer in text: Bridging the gap with a hierarchical survey
+0.43956068,0.52862924,0.7470188,2018,"Text analytics APIs, Part 1: The bigger players"
+0.47447217,0.45861924,0.761914,2023,Improving semantic coverage of data-to-text generation model using dynamic memory networks
+0.4465366,0.47558603,0.801207,2020,Constrained BERT BiLSTM CRF for understanding multi-sentence entity-seeking questions
+0.2368459,0.4504137,0.7663245,2022,"Emerging trends: Unfair, biased, addictive, dangerous, deadly, and insanely profitable"
+0.5014956,0.6219963,0.8390042,2018,Law and Word Order: NLP in Legal Tech
+0.3279398,0.3489561,0.78395104,2019,Neural morphosyntactic tagging for Rusyn
+0.39379025,0.44306976,0.7519493,2023,Urdu paraphrase detection: A novel DNN-based implementation using a semi-automatically generated corpus
+0.39475822,0.4526214,0.70761657,2023,SAN-T2T: An automated table-to-text generator based on selective attention network
+0.5255964,0.5685587,0.86451185,2017,Natural language processing in mental health applications using non-clinical texts†
+0.4911626,0.5059183,0.8580378,2021,Emerging trends: A gentle introduction to fine-tuning
+0.43440893,0.5245931,0.78570914,2018,Alignment of comparable documents: Comparison of similarity measures on French–English–Arabic data
+0.4042008,0.5197268,0.77822477,2023,Determining sentiment views of verbal multiword expressions using linguistic features
+0.42638224,0.50822675,0.8301898,2016,Checking in on grammar checking
+0.15149477,0.20999035,0.68414736,2022,Emerging Trends: SOTA-Chasing
+0.13507521,0.21199203,0.65146667,2024,Emerging trends: evaluating general purpose foundation models
+0.3529144,0.47287634,0.77904713,2023,PGST: A Persian gender style transfer method
+0.5449857,0.52030325,0.86509955,2022,$NLP: How to spend a billion dollars
+0.45313942,0.59584403,0.8200659,2018,Identifying signs of syntactic complexity for rule-based sentence simplification
+0.43261802,0.47661,0.8440515,2022,MHeTRep: A multilingual semantically tagged health terms repository
+0.38071543,0.48101744,0.7763025,2023,Joint learning of text alignment and abstractive summarization for long documents via unbalanced optimal transport
+0.3362032,0.44491932,0.79951084,2020,Transfer learning for Turkish named entity recognition on noisy text
+0.33396268,0.47769862,0.7713007,2020,Computational generation of slogans
+0.31536484,0.50438416,0.72886664,2020,Cluster-based mention typing for named entity disambiguation
+0.33115488,0.38743106,0.7443689,2022,A benchmark for evaluating Arabic word embedding models
+0.42169568,0.49204034,0.8422216,2022,Improving Short Text Classification With Augmented Data Using GPT-3
+0.20054424,0.08387131,0.645356,2020,Preface
+0.34146166,0.48872203,0.83709395,2021,Emerging trends: Deep nets for poets
+0.38795093,0.39777556,0.796939,2017,Jointly learning sentence embeddings and syntax with unsupervised Tree-LSTMs
+0.63537747,0.5994997,0.9183595,2017,The commercial NLP landscape in 2017
+0.38999403,0.40484822,0.81738937,2020,Meemi: A simple method for post-processing and integrating cross-lingual word embeddings
+0.282061,0.38516384,0.7096179,2020,Improving speech emotion recognition based on acoustic words emotion dictionary
+0.32211334,0.48195326,0.77092814,2022,An analysis of property inference methods
+0.31478038,0.45344862,0.82096857,2018,Weighting-based semantic similarity measure based on topological parameters in semantic taxonomy
+0.2973363,0.4571612,0.7215923,2021,Reducing repetition in convolutional abstractive summarization
+0.40849233,0.5948716,0.82727,2020,Nonuniform language in technical writing: Detection and correction
+0.25122893,0.35838082,0.72090244,2023,A study towards contextual understanding of toxicity in online conversations
+0.3333583,0.55403364,0.8054278,2018,A novel ILP framework for summarizing content with high lexical variety
+0.51083004,0.6540748,0.8727109,2021,"Neural Machine Translation 2020, by Philipp Koehn, Cambridge, Cambridge University Press, ISBN 978-1-108-49732-9, pages 393"
+0.50708735,0.52105373,0.8211163,2021,Automatic question generation based on sentence structure analysis using machine learning approach
+0.34695107,0.4189126,0.8579136,2023,A resampling-based method to evaluate NLI models
+0.44677338,0.5270201,0.85685813,2020,Enhancing deep neural networks with morphological information
+0.3187912,0.40370262,0.7568541,2015,Silhouette + attraction: A simple and effective method for text clustering†
+0.34616396,0.4434461,0.7986509,2019,Out-domain Chinese new word detection with statistics-based character embedding
+0.3657856,0.43777832,0.8152316,2018,Sentence embeddings in NLI with iterative refinement encoders
+0.4279489,0.52088475,0.8449656,2023,Lightweight transformers for clinical natural language processing
+0.41122296,0.5232961,0.7818605,2018,Extractive multi-document summarization based on textual entailment and sentence compression via knapsack problem
+0.46842515,0.49940977,0.7337492,2018,Arabic community question answering
+0.24186403,0.45512003,0.7036436,2023,A transformer-based multi-task framework for joint detection of aggression and hate on social media data
+0.0718112,0.08024976,0.7257068,2022,NLE volume 28 issue 4 Cover and Front matter
+0.34727475,0.44766295,0.76658106,2023,On generalization of the sense retrofitting model
+0.43590927,0.5086814,0.8172513,2023,Toward a shallow discourse parser for Turkish
+0.4266619,0.4559575,0.78351617,2022,KLAUS-Tr: Knowledge & learning-based unit focused arithmetic word problem solver for transfer cases
+0.40192848,0.5068709,0.80415803,2021,Sentence encoding for Dialogue Act classification
+0.58686274,0.6261832,0.9086237,2023,How to do human evaluation: A brief introduction to user studies in NLP
