@@ -1,0 +1,11 @@
+year,alignment_score,title,abstract_excerpt
+2019,-0.019658394157886505,Preface,"Hydrogen sulfide (H2S) is a toxic gas that emits an unpleasant smell like rotten eggs. About 20 years ago, the mere presence of a pungent gas was considered as a physiological mediator. Following the ..."
+2023,0.04073282331228256,"Emerging trends: Risks 3.0 and proliferation of spyware to 50,000 cell phones","Abstract Our last emerging trend article introduced Risks 1.0 (fairness and bias) and Risks 2.0 (addictive, dangerous, deadly, and insanely profitable). This article introduces Risks 3.0 (spyware and ..."
+2022,0.041840698570013046,Emerging trends: Deep nets thrive on scale,"Abstract Deep nets are becoming larger and larger in practice, with no respect for (non)-factors that ought to limit growth including the so-called curse of dimensionality (CoD). Donoho suggested that..."
+2022,0.07181119918823242,NLE volume 28 issue 1 Cover and Front matter,",..."
+2022,0.07181119918823242,NLE volume 28 issue 3 Cover and Front matter,",..."
+2022,0.07181119918823242,NLE volume 28 issue 2 Cover and Front matter,",..."
+2022,0.07181119918823242,NLE volume 28 issue 5 Cover and Front matter,",..."
+2022,0.07181119918823242,NLE volume 28 issue 6 Cover and Front matter,",..."
+2023,0.07181119918823242,On generalization of the sense retrofitting model,"Abstract With the aid of recently proposed word embedding algorithms, the study of semantic relatedness has progressed rapidly. However, word-level representations are still lacking for many natural l..."
+2019,0.07942414283752441,GANs vs. good enough,"Abstract General Adversarial Networks are hot. Given Murphy’s Law, it is prudent to be paranoid. Best not to design for the average case. There is a long tradition of designing for the hundred-year fl..."
